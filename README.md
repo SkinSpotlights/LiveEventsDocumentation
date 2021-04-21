@@ -1,7 +1,7 @@
 # LiveEventsDocumentation
 Documentation of League of Legends Live Events API
 
-Live Events API is a undocumentated API part of League of Legends that can be enabled via a config and a list of events that you wish to receive updates for.  The API is only available in Spectator/Replays.
+Live Events API is a undocumentated API part of League of Legends that can be enabled via a config and a list of events that you wish to receive updates for.  **The API is only available in Spectator/Replays**.
 
 To enable the API you need to navigate to the `Riot Games\League of Legends\Config\` folder and edit the `game.cfg` then add the following
 
