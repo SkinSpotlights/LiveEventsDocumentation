@@ -1,3 +1,6 @@
+[!IMPORTANT]
+IT SEEMS WITH PATCH 14.1 THE API WAS REMOVED OR DISABLED
+
 # LiveEventsDocumentation
 Documentation of League of Legends Live Events API
 
